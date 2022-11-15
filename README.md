@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N1k0l1n
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning .net core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
