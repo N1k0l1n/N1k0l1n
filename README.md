@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N1k0l1n
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning .net core
+- 🌱 I’m currently working with .net core
 - 📫 How to reach me ...{
 - nikolinandoni80@gmail.com,
 - https://www.linkedin.com/in/nikolin-andoni-621b08210/
