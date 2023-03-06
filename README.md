@@ -1,13 +1,19 @@
-- 👋 Hi, I’m @N1k0l1n
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently working with .net core
-- 📫 How to reach me ...{
-- nikolinandoni80@gmail.com,
-- https://www.linkedin.com/in/nikolin-andoni-621b08210/
-- https://image-search-nine-alpha.vercel.app/
-- }
+### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
-<!---
-N1k0l1n/N1k0l1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://img.shields.io/badge/nikolinandoni80@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="nikolinandoni80@gmail.com">   <a  href="https://www.instagram.com/nikolin_andoni/"><img src="https://img.shields.io/badge/@sharannyo_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/nikolin-andoni)"><img src="https://img.shields.io/badge/Sharannyo Basu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+
+### Here are some ideas to help you get started:
+
+- 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>
+- 🌱 I’m currently learning <strong>C#</strong>
+- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
+- 💬 Ask me about <strong>Data Structures in C#, JavaScript, Bootstrap, Graphic Designing (Canva) etc</strong>
+- ⚡ Fun fact: I can talk 24/7 about football.
+
+### Tools I work upon : 🛠
+
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+
+<img src="https://react-portfolio-n1k0l1n.vercel.app">
+
+⭐️ From [N1k0l1n](https://github.com/N1k0l1n)
