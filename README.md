@@ -1,6 +1,6 @@
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
-<img src="https://img.shields.io/badge/nikolinandoni80@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="nikolinandoni80@gmail.com">   <a  href="https://www.instagram.com/nikolin_andoni/"><img src="https://img.shields.io/badge/@sharannyo_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/nikolin-andoni)"><img src="https://img.shields.io/badge/Sharannyo Basu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/nikolinandoni80@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="nikolinandoni80@gmail.com">   <a  href="https://www.instagram.com/nikolin_andoni/"><img src="https://img.shields.io/badge/@nikolin_andoni-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/nikolin-andoni)"><img src="https://img.shields.io/badge/Nikolin Andoni-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 ### Here are some ideas to help you get started:
 
