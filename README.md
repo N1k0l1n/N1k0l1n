@@ -5,7 +5,7 @@
 ### Here are some ideas to help you get started:
 
 - 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>
-- 🌱 I’m currently learning <strong>C#</strong>
+- 🌱 I’m currently working with <strong>C#</strong>
 - 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
 - 💬 Ask me about <strong>Data Structures in C#, JavaScript, Bootstrap, Graphic Designing (Canva) etc</strong>
 - ⚡ Fun fact: I can talk 24/7 about games.
