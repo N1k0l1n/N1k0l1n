@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n1k0l1n" alt="n1k0l1n" /></a> </p>
 
-- 🔭 I’m currently working on **react native**
+- 🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **react framewroks**
+- 🌱 I’m currently learning **Gatsby **
 
 - 👯 I’m looking to collaborate on **front-end projects**
 
