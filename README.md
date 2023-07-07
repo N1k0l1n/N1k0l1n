@@ -36,3 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1k0l1n&" alt="n1k0l1n" /></p>
 
+## Well, everybody has it...
+
+![snake gif](https://github.com/N1k0l1n/N1k0l1n/blob/output/github-contribution-grid-snake.svg)
+
