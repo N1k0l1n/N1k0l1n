@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nikolin</h1>
-<h3 align="center">a passionate full stack developer with expertise in React, React Native, C#, .NET, MAUI, Next.js, and Gatsby.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n1k0l1n&label=Profile%20views&color=0e75b6&style=flat" alt="n1k0l1n" /> </p>
 
