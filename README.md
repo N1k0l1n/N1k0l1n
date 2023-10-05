@@ -2,7 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n1k0l1n&label=Profile%20views&color=0e75b6&style=flat" alt="n1k0l1n" /> </p>
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)"><img src="https://github-profile-trophy.vercel.app/?username=n1k0l1n" alt="n1k0l1n" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=n1k0l1n&theme=tokyonight&rank=-C,-B" alt="n1k0l1n" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **React Native**
 
