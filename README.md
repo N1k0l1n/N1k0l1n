@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [nandoni.com](nandoni.com)
 
-- 💬 Ask me about **react, c#**
+- 💬 Ask me about **React, C#**
 
 - 📫 How to reach me **nikolinandoni80@gmail.com**
 
