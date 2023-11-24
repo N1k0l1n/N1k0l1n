@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=n1k0l1n&theme=tokyonight alt="n1k0l1n" />
+    <img src="https://github-profile-trophy.vercel.app/?username=n1k0l1n&theme=tokyonight&rank=-C,-B" alt="n1k0l1n" />
   </a>
 </p>
 
