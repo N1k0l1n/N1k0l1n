@@ -5,6 +5,7 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=n1k0l1n&theme=algolia&rank=-C,-B" alt="n1k0l1n" />
+    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/n1k0l1n/github-profile-trophy)
   </a>
 </p>
 
