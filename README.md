@@ -31,7 +31,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,react,nextjs,ts,js,cs,dotnet,python,fastapi,postgres,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,react,nextjs,ts,js,cs,dotnet,python,fastapi,postgres,mysql,firebase" />
 </p>
 
 ---
