@@ -1,5 +1,5 @@
 <h1 align="center">Nikolin Andoni</h1>
-<h3 align="center">Full-Stack Developer |   <a href="https://www.credly.com/badges/cf6c57db-8534-4bcb-967f-378dc1af9e3d/linked_in?t=t85850"> AWS Solutions Architect</h3>
+<h3 align="center">Senior Full-Stack Developer |   <a href="https://www.credly.com/badges/cf6c57db-8534-4bcb-967f-378dc1af9e3d/linked_in?t=t85850"> AWS Solutions Architect</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikolin-andoni/">
